@@ -22,7 +22,7 @@ from database import (
     get_order
 )
 
-BOT_TOKEN = "PUT_YOUR_TOKEN_HERE"
+BOT_TOKEN = "8697634264:AAFnXcELinM2KjnFYwxuLU0zs23HwypEItI"
 OWNER_ID = 583079615
 
 
